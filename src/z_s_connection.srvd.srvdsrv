@@ -1,0 +1,6 @@
+@EndUserText.label: 'Service for connection entity'
+define service Z_S_CONNECTION {
+  expose Z_I_Connection;
+  expose Z_I_Flight_TECH_R;
+  expose Z_I_Carrier_Tech_r;
+}
